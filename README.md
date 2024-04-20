@@ -1,0 +1,7 @@
+Embark on the journey of your dream wedding with our meticulously crafted wedding planner website. Seamlessly navigate through the essential sections such as Home, About, Services, and Booking. In the captivating Home page, discover a harmonious blend of elegance and functionality, featuring a dynamic header, captivating imagery, and convenient navigation options. Dive deeper into the essence of our endeavor in the About section, where you'll find not just a mere introduction, but a heartfelt narrative woven with past clients' testimonials, giving you a glimpse into our commitment and expertise.
+
+The Services section serves as your gateway to a world of possibilities, offering meticulously curated offerings ranging from traditional ceremonies like Haldi and Mangal Sutra to modern essentials like Varapooja and Saptapadi. With each service meticulously outlined, you'll find everything you need to craft your perfect wedding day.
+
+When you're ready to take the next step, our Booking section awaits. A simple yet comprehensive form awaits your input, seamlessly capturing your details and preferences. Powered by PHP in the backend, rest assured that every detail you provide is securely stored and managed, ensuring a seamless and hassle-free booking experience.
+
+Welcome to our wedding planner website - where every detail is meticulously crafted, and every moment is cherished. Let's embark on this journey together, creating memories that last a lifetime.
