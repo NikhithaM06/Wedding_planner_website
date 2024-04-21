@@ -145,7 +145,7 @@
       <div class="box">
          <h3>Contact Info</h3>
          <a href="#"><i class="fas fa-phone"></i>1234567890</a>
-         <a href="#"><i class="fas fa-envelope"></i> nikhi.com</a>
+         <a href="#"><i class="fas fa-envelope"></i> nikhi@gmail.com</a>
          <a href="#"><i class="fas fa-map"></i>Udupi dist</a>
       </div>
 
