@@ -144,9 +144,9 @@
 
       <div class="box">
          <h3>Contact Info</h3>
-         <a href="#"><i class="fas fa-phone"></i> 6361308284</a>
-         <a href="#"><i class="fas fa-envelope"></i> nikhitham@gmail.com</a>
-         <a href="#"><i class="fas fa-map"></i> Giliyaru village post Kota,Brahmavara Taluk,Udupi dist</a>
+         <a href="#"><i class="fas fa-phone"></i>1234567890</a>
+         <a href="#"><i class="fas fa-envelope"></i> nikhi.com</a>
+         <a href="#"><i class="fas fa-map"></i>Udupi dist</a>
       </div>
 
       <div class="box">
